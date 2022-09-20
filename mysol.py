@@ -1,1 +1,5 @@
-print ("This is a test!")
+print ("Number frim 1 to 100: ")
+
+for n in range (1, 101):
+
+	print(n)
